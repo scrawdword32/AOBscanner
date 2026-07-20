@@ -1,0 +1,28 @@
+# build
+build/
+out/
+cmake-build-*/
+
+# compilation
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# CMake temp files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# system files
+Thumbs.db
+.DS_Store
